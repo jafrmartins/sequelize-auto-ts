@@ -1,5 +1,6 @@
 {
     "name": "sequelize-auto-ts",
+    "bin": "lib/cli.js",
     "version": "1.0.10",
     "author": "Samuel Neff <sam@serndesign.com> https://github.com/samuelneff",
     "description": "Generates Sequelize definition statements and TypeScript interfaces for tables in a database.",
